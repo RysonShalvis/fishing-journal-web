@@ -6,10 +6,10 @@ export default function DiveLogs() {
     <>
       <div>DiveLogs</div>
       <nav>
-        <Link to="login">login</Link>
-        <Link to="sign-up">sign up</Link>
-        <Link to="profile">profile</Link>
         <Link to="/">Home</Link>
+        <Link to="/login">login</Link>
+        <Link to="/sign-up">sign up</Link>
+        <Link to="/profile">profile</Link>
       </nav>
     </>
     
